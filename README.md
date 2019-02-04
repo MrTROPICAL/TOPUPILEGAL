@@ -1,2 +1,2 @@
 # TOPUPILEGAL
-gunakan dengan bijak tools ini ok
+gunakan dengan bijak tool ini ok
