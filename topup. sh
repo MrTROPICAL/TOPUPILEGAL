@@ -23,7 +23,7 @@ figlet Z4P3R0 |lolcat
 echo "######################################################" |lolcat
 
 echo " TOOLS MULTI FUNGSI TERMUX $green " |lolcat
-echo " CODED BY Z4P3R0 $green " |lolcat
+echo " CODED BY TR0P1C4L $green " |lolcat
 
 echo"#######################################################" |lolcat
 
@@ -39,7 +39,7 @@ echo  $green"[#]> (Ctrl + C ) Detected, Trying To Exit ... " |lolcat
 echo  $green"[#]> MAKASIH UDH PAKE TOOLS GUE " |lolcat
 sleep 1
 echo ""
-echo  $green"[#]> Z4P3R0 WAS HERE" |lolcat
+echo  $green"[#]> TR0P1C4L WAS HERE" |lolcat
 
 echo  $green"[#]> See you Again :)..." |lolcat
 sleep 1
@@ -61,7 +61,7 @@ echo "=======================" |lolcat
 echo $b "5. TOP UP ILEGAL PUBG${enda}";
 echo "=======================" |lolcat
 echo $b "6. Exit${enda}";
-echo  "╭─Z4P3R0 [PILIH AJA NOMERNYA]" |lolcat
+echo  "╭─TR0P1C4L [PILIH AJA NOMERNYA]" |lolcat
 read   "╰─#" pil;
 
 case $pil in
